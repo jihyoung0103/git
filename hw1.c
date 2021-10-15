@@ -2,7 +2,7 @@
 int main()
 {
 	int num1, num2;
-	printf("두 정수를 입력하세요: ");
+	printf("Enter the num1, num2: ");
 	scanf("%d %d", &num1, &num2);
 	int num_and = num1 & num2;
 	int num_or = num1 | num2;
