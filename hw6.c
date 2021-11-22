@@ -2,7 +2,7 @@
 int main()
 {
 	int arr1[6] = { 1,2,3,4,5,6 };
-	int	arr2[6] = { 7,8,9,10,11,12 };
+	int arr2[6] = { 7,8,9,10,11,12 };
 	int i;
 	printf("arr1: ");
 	for (i = 0; i < 6; i++)
